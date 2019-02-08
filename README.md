@@ -1,3 +1,3 @@
 # hello-world
 My first repository
-This is my first change ready to commit
+This is my second change ready to commit
